@@ -5,6 +5,7 @@ A professional network scanner built with Python.
 NetScan Pro helps you discover devices on your local network, scan open ports, and save scan history using a modern cybersecurity-style interface.
 
 ---
+<img width="1366" height="767" alt="netpro1" src="https://github.com/user-attachments/assets/478c72b9-47e8-4d30-ad0a-cc485791d652" />
 
 ## 🚀 Features
 
@@ -78,7 +79,6 @@ Start NetScan Pro:
 
 ```bash
 python main.py
-<img width="1366" height="767" alt="netpro1" src="https://github.com/user-attachments/assets/478c72b9-47e8-4d30-ad0a-cc485791d652" />
 
 # 👨‍💻 Author
 
