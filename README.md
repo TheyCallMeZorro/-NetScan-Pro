@@ -48,3 +48,44 @@ NetScan Pro helps you discover devices on your local network, scan open ports, a
 - SQLite
 - Threading
 
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/yourusername/NetScan-Pro.git
+
+## Open Project Folder
+
+```bash
+cd NetScan-Pro
+```
+
+## Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# ▶️ Run Application
+
+Start NetScan Pro:
+
+```bash
+python main.py
+<img width="1366" height="767" alt="netpro1" src="https://github.com/user-attachments/assets/478c72b9-47e8-4d30-ad0a-cc485791d652" />
+
+# 👨‍💻 Author
+
+Zorro
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
+
